@@ -1,1 +1,1 @@
-# chore_terraform
+https://learn.hashicorp.com/terraform/getting-started/install.html
